@@ -6,40 +6,39 @@ permalink: /resume/
 
 [Resume PDF](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31--0PzeP2t/view?usp=sharing)
 
-Work Experience
+# <ins> Work Experience </ins> <br>
 ----------
 
 **Research Associate II, Computational Biology**
-AUGUST 2022 - PRESENT
+:   AUGUST 2022 - PRESENT
 **Research Associate I, Molecular Biology**
-AUGUST 2021 - AUGUST 2022 
-AnaptysBio, San Diego CA
+:   AUGUST 2021 - AUGUST 2022 
+:   AnaptysBio, San Diego CA
 
 * Create, maintain, and update NGS analysis pipelines
 * Perform antibody repertoire analyses 
 * Performed PCR, DNA extraction and purification, and
 mutagenesis experiments 
 * Summarized and presented data from individual projects at
-department meetings
+department meetings <br>
 
 **Biotechnology Intern**
-January 2017 - May 2017
-Michelmore Lab, University of California, Davis
+:   JANUARY 2017 - MAY 2017
+:   Michelmore Lab, University of California, Davis
 * Assisted graduate level research
 * Discovered markers for QTL analysis of resistance genes to 	downy mildew in lettuce
 * 10+ hours spent weekly after school working on research
 * Monsanto scholarship recipient
 
 
-Education
----------
+# <ins> Education </ins>
 
-2018-2021
-:   **Molecular, Cellular, and Developmental Biology B.S**; University of California, Santa Cruz
+**Molecular, Cellular, and Developmental Biology B.S**
+:   University of California, Santa Cruz
+:   2018-2021
 
 
-Awards
---------------------
+# <ins> Awards </ins><br>
 **Dean's Honors**
 FALL 2020
 Achieved top 15% GPA
@@ -50,9 +49,8 @@ Presented internship research to
 board of scientists at Monsanto
 and selected amongst peer interns
 
-Skills
---------------------
-
+# <ins> Skills </ins>
+<br>
 **COMPUTATIONAL**
 * Python (Intermediate)
 * R, HTML, CSS, JavaScript (Beginner)

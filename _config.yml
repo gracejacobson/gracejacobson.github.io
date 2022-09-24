@@ -10,7 +10,7 @@ header_pages:
 
 style: dark
 
-footer: 'check out my <a href="https://github.com/gracejacobson">github</a>'
+footer: 'contact: gejacobs@ucsc.edu'
 
 # Build settings
 markdown: kramdown

@@ -11,7 +11,7 @@ Available as PDF [here](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31
 
 **Research Associate II, Computational Biology**
 :   AUGUST 2022 - PRESENT 
-
+<br>
 **Research Associate I, Molecular Biology**
 :   AUGUST 2021 - AUGUST 2022 
 :   AnaptysBio, San Diego CA
@@ -22,13 +22,13 @@ Available as PDF [here](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31
 mutagenesis experiments 
 * Summarized and presented data from individual projects at
 department meetings <br>
-
+<br>
 **Biotechnology Intern**
 :   JANUARY 2017 - MAY 2017
 :   Michelmore Lab, University of California, Davis
 
 * Assisted graduate level research
-* Discovered markers for QTL analysis of resistance genes to 	downy mildew in lettuce
+* Discovered markers for QTL analysis of resistance genes to downy mildew in lettuce
 * 10+ hours spent weekly after school working on research
 * Monsanto scholarship recipient
 
@@ -51,7 +51,7 @@ department meetings <br>
 :   FALL 2020
 
 * Achieved top 15% GPA
-
+<br>
 **Monsanto Most Passionate Scholarship**
 :   MAY 2017
 
@@ -66,8 +66,7 @@ department meetings <br>
 * Comfortable on Linux command line
 * Git version control
 * UCSC Genome Browser
-
-
+<br>
 **EXPERIMENTAL**
 * Cloning (restriction digest, Gibson assembly)
 * DNA extraction and purification

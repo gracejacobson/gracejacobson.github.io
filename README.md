@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# Grace Jacobson 
+This is the repo for my personal site. I'm using a [jekyll theme](https://github.com/b2a3e8/jekyll-theme-console) inspired by the linux console.

@@ -11,7 +11,6 @@ Available as PDF [here](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31
 
 **Research Associate II, Computational Biology**
 :   AUGUST 2022 - PRESENT 
-<br>
 **Research Associate I, Molecular Biology**
 :   AUGUST 2021 - AUGUST 2022 
 :   AnaptysBio, San Diego CA

@@ -9,7 +9,7 @@ permalink: /projects/
 
 Projects from this course include analyzing DNA sequences for the largest ORF, computing protein properties, and calculating bond lengths and angles. You can access all the projects in the repo [here](https://github.com/gracejacobson/UCSC_BME160/).
 
-<br /><br />Some code from Lab 4, genomeAnalyzer.py:
+<br />Some code from Lab 4, genomeAnalyzer.py:
 {% highlight python %}
 def main ():
     """Calls FastAreader and NucParams, prints output"""
@@ -42,7 +42,7 @@ def main ():
 
 I'm working on using HTML, CSS, and JavaScript in one HTML file for biological applications. One of my projects identifies sequence liabilities in antibodies. You can preview it [here](http://htmlpreview.github.io/?https://github.com/gracejacobson/HTML-CSS-Java/blob/main/AbLiabilities.html).
 
-<br /><br />Here is the main function in JavaScript:
+<br />Here is the main function in JavaScript:
 {% highlight javascript %}
 function main(){
     list = document.getElementById('selectlist')

@@ -21,8 +21,10 @@ Available as PDF [here](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31
 * Performed PCR, DNA extraction and purification, and
 mutagenesis experiments 
 * Summarized and presented data from individual projects at
-department meetings <br>
+department meetings 
+
 <br>
+
 **Biotechnology Intern**
 :   JANUARY 2017 - MAY 2017
 :   Michelmore Lab, University of California, Davis
@@ -51,7 +53,9 @@ department meetings <br>
 :   FALL 2020
 
 * Achieved top 15% GPA
+  
 <br>
+
 **Monsanto Most Passionate Scholarship**
 :   MAY 2017
 
@@ -66,7 +70,9 @@ department meetings <br>
 * Comfortable on Linux command line
 * Git version control
 * UCSC Genome Browser
+  
 <br>
+
 **EXPERIMENTAL**
 * Cloning (restriction digest, Gibson assembly)
 * DNA extraction and purification

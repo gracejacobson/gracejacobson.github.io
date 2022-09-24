@@ -4,7 +4,8 @@ layout: page
 permalink: /projects/
 ---
 
-# BME160: Research Programming
+# BME160: Research Programming <br>
+----------
 
 Projects from this course include analyzing DNA sequences for the largest ORF, computing protein properties, and calculating bond lengths and angles. You can access all the projects in the repo [here](https://github.com/gracejacobson/UCSC_BME160/).
 
@@ -36,7 +37,8 @@ def main ():
             print ('{:s} : {:s} {:5.1f} ({:6d})'.format(codon, aa, val*100, myNuc.rnaCount[aa][codon]))
 {% endhighlight %}
 
-## HTML/CSS/JavaScript
+## HTML/CSS/JavaScript <br>
+----------
 
 I'm working on using HTML, CSS, and JavaScript in one HTML file for biological applications. One of my projects identifies sequence liabilities in antibodies. You can preview it [here](http://htmlpreview.github.io/?https://github.com/gracejacobson/HTML-CSS-Java/blob/main/AbLiabilities.html).
 

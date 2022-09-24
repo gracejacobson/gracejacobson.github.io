@@ -11,6 +11,7 @@ Available as PDF [here](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31
 
 **Research Associate II, Computational Biology**
 :   AUGUST 2022 - PRESENT 
+
 **Research Associate I, Molecular Biology**
 :   AUGUST 2021 - AUGUST 2022 
 :   AnaptysBio, San Diego CA
@@ -39,7 +40,7 @@ department meetings
 
 **Molecular, Cellular, and Developmental Biology B.S**
 :   University of California, Santa Cruz
-:   2018-2021
+:   2018 - 2021
 
 * President of Asian-interest sorority
 * First Year Representative in Bioinformatics Club

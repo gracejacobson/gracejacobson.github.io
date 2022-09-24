@@ -1,17 +1,16 @@
-title: 'b2a3e8.github.io'
-description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+title: 'Grace Jacobson'
+description: "Grace Jacobson"
 baseurl: ""
 url: "https://gracejacobson.github.io/"
 
 header_pages:
   - index.md
-  - peter.md
-  - about.md
-  - contact.md
+  - projects.md
+  - resume.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'check out my <a href="https://github.com/gracejacobson">github</a>'
 
 # Build settings
 markdown: kramdown

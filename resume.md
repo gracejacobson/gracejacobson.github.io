@@ -6,84 +6,63 @@ permalink: /resume/
 
 [Resume PDF](https://drive.google.com/file/d/1aSyNPJ-DPnTKEHf_WivjV31--0PzeP2t/view?usp=sharing)
 
-# Work Experience
-↳ August 2022
+Work Experience
+----------
 
-Research Associate II, Computational Biology
-
+**Research Associate II, Computational Biology**
+AUGUST 2022 - PRESENT
+**Research Associate I, Molecular Biology**
+AUGUST 2021 - AUGUST 2022 
 AnaptysBio, San Diego CA
 
-— Perform antibody repertoire analyses 
+* Create, maintain, and update NGS analysis pipelines
+* Perform antibody repertoire analyses 
+* Performed PCR, DNA extraction and purification, and
+mutagenesis experiments 
+* Summarized and presented data from individual projects at
+department meetings
 
-— Create, maintain, and update NGS analysis pipelines
-
-
-
-↳ August 2021
-
-Research Associate I, Molecular Biology
-
-AnaptysBio, San Diego CA
-
-— Maintained and archived DNA clones and bacterial glycerol stocks
-
-— Analyzed DNA sequences, performed PCR and DNA prep 
-
-— Summarized and presented data from individual projects at department meetings 
-
-— Optimized protocols and streamlined sequence analysis through object-oriented Python programming
-
-
-
-↳ January 2017
-
-Biotechnology Intern
-
+**Biotechnology Intern**
+January 2017 - May 2017
 Michelmore Lab, University of California, Davis
-
-— Assisted graduate level research
-
-— Discovered markers for QTL analysis of resistance genes to 	downy mildew in lettuce
-
-— 10+ hours spent weekly after school working on research
-
-— Monsanto scholarship recipient
-
-# Education
-↳ University of California, Santa Cruz
-
-Molecular, Cellular, and Developmental Biology B.S
-
-— Graduated within three years
-
-— President of Asian-interest sorority
-
-— First Year Representative in Bioinformatics Club
-
-— Deans Honors, Fall 2020
-
-# Skills
-# Computational
-Python (Intermediate)
-
-Pandas, NumPy, Biopython
-
-Comfortable on Linux command line
-
-Git version control
-
-Familiar with UCSC Genome Browser
+* Assisted graduate level research
+* Discovered markers for QTL analysis of resistance genes to 	downy mildew in lettuce
+* 10+ hours spent weekly after school working on research
+* Monsanto scholarship recipient
 
 
+Education
+---------
 
-# Experimental
-Molecular Cloning
+2018-2021
+:   **Molecular, Cellular, and Developmental Biology B.S**; University of California, Santa Cruz
 
-Restriction digest, Gibson assembly
 
-DNA extraction
+Awards
+--------------------
+**Dean's Honors**
+FALL 2020
+Achieved top 15% GPA
 
-PCR
+**Monsanto Most Passionate Scholarship**
+MAY 2017
+Presented internship research to
+board of scientists at Monsanto
+and selected amongst peer interns
 
-Site saturation mutagenesis & site directed mutagenesis
+Skills
+--------------------
+
+**COMPUTATIONAL**
+* Python (Intermediate)
+* R, HTML, CSS, JavaScript (Beginner)
+* Comfortable on Linux command line
+* Git version control
+* UCSC Genome Browser
+
+**EXPERIMENTAL**
+* Cloning (restriction digest, Gibson assembly)
+* DNA extraction and purification
+* PCR
+* Antibody mutagenesis
 

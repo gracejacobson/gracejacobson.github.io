@@ -3,8 +3,10 @@ title: /
 layout: home
 permalink: /
 ---
-![Programmer_Day](/assets/Programmer_Day.gif){:.center}<br>
-Programmer Day by [@Porforever](https://www.deviantart.com/porforever/art/Programmer-Day-601013649){:.center}
+![Programmer_Day](/assets/Programmer_Day.gif){:.center}
+Programmer Day by @Porforever{:.center}
+
+
 # About Me <br>
 ----------
 

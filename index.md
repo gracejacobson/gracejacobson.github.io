@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 ![Programmer_Day](/assets/Programmer_Day.gif){:.center}
-Programmer Day by @Porforever{:.center}
+{:.center}Programmer Day by @Porforever
 
 
 # About Me <br>

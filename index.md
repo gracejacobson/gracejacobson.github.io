@@ -3,7 +3,7 @@ title: /
 layout: home
 permalink: /
 ---
-<div style="text-align: right"><img src="/assets/Programmer_Day.gif" width="100" /><br>Programmer day by <a href="(https://www.deviantart.com/porforever/art/Programmer-Day-601013649">@Porforever</a> </div>
+<div style="text-align: center"><img src="/assets/Programmer_Day.gif"><br>Programmer day by <a href="(https://www.deviantart.com/porforever/art/Programmer-Day-601013649">@Porforever</a> </div>
 
 # About Me <br>
 ----------

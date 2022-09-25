@@ -52,13 +52,13 @@ department meetings
 **Dean's Honors**
 :   FALL 2020
 
-* Achieved top 15% GPA
+
   
 
 **Monsanto Most Passionate Scholarship**
 :   MAY 2017
 
-* Presented internship research to board of scientists at Monsanto and selected amongst peer interns
+
 
 # <ins> Skills </ins><br>
 ----------

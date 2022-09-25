@@ -8,10 +8,14 @@ header_pages:
   - projects.md
   - resume.md
 
+<<<<<<< HEAD
 style: light
+=======
+>>>>>>> 88d712f477d84ac790c18df911dc396a0add9bcf
 
 footer: 'contact: gejacobs@ucsc.edu'
 
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+style: light

@@ -54,7 +54,6 @@ department meetings
 
 * Achieved top 15% GPA
   
-<br>
 
 **Monsanto Most Passionate Scholarship**
 :   MAY 2017

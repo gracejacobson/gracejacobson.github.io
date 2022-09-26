@@ -4,14 +4,14 @@ title:  "Bâtons Percés: Paleolithic Perforated Batons"
 date:   2022-9-25 20:00:00 +0100
 categories: 
 ---
-![Perforated Baton](/assets/Perforated_Baton.jpg){:.center}
+<img class="center" src="/assets/Perforated_Baton.jpg" alt="Perforated Baton">
 Musée d'Archeologie Nationale et Domaine
 {: .centertext}
 
 # What are perforated batons?
 Perforated batons are made of antler, and contain at least one hole. More than 400 batons have been discovered across Europe,  dating from the Upper Paleolithic to the Early Mesolithic. Batons dating to the Boreal and Early Atlantic period of the Mesolithic range from lengths 40-50cm, while Atlantic batons are longer at 50-70cm. 
 
-![Periods](/assets/Holocene_Subdivisions.png){:.center}
+<img class="center" src="/assets/Holocene_Subdivisions.png" alt="Holocene Subdivisions">
 Holocene temporal range, subdivisions, chronozones and periodization (Hurka et al., 2019)
 {: .centertext}
 
@@ -21,10 +21,10 @@ Despite the large numbers of perforated batons discovered, there is no conclusio
 
 - *Symbols of Authority*: When the first perforated baton was discovered in 1867 by Édouard Lartet and Henry Christy, they were impressed by the intricate engravings. They called the batons "bâtons de commandement": batons are a representation of authority and power. However as more were discovered, and their use patterns analyzed, this has become a less popular hypothesis.
 - *Spear/Arrow Straighteners*
-- *Making Rope*: Rigaud (2001) demonstrated how perforated batons can be used to twist and manipulate rope, and even showed how this proposed function can cause pressure and mimic the pattern of breakage found in many batons. 
+- *Making Rope*: Rigaud demonstrated how perforated batons can be used to twist and manipulate rope, and even showed how this proposed function can cause pressure and mimic the pattern of breakage found in many batons. 
 
-![Rope Demonstration](/assets/Rope_aid.jpg){:.center}
-Use as an aid for making rope (Rigaud, 2001).
+<img class="center" src="/assets/Rope_aid.jpg" alt="Rope Demonstration">
+Use as an aid for making rope (Rigaud, 2004).
 {: .centertext}
 
 - *Spear thrower*: By using the perforated batons, spears could be thrown further with less force and wear on the body. It has been found to increase range by 127% (David Wescott, 1999). Someone actually demonstrated how to throw a javelin with a perforated baton (30+ yards!). Check it out on [youtube](https://www.youtube.com/watch?v=e-DJiih0vzM). 
@@ -32,16 +32,17 @@ Use as an aid for making rope (Rigaud, 2001).
 
 # Murray Springs Shaft Wrench
 A tool resembling European perforated batons was discovered in Arizona in 1967. It is made of mammoth bone, lacks engravings, and shows significant wear at the top and bottom of the hole. Gary Haynes hypothesized it was used for spear straightening.
-![Murray Springs Shaft Wrench](/assets/Murray_Springs_Shaft_Wrench.jpg){:.center}
+
+<img class="center" src="/assets/Murray_Springs_Shaft_Wrench.jpg" alt="Murray Springs Shaft Wrench">
 Murray Springs Shaft Wrench
 {: .centertext}
 
 # References
-Lucas, C., Galway-Witham, J., Stringer, C.B. et al. (2019). Investigating the use of Paleolithic perforated batons: new evidence from Gough’s Cave (Somerset, UK). Archaeol Anthropol Sci 11, 5231–5255. https://doi.org/10.1007/s12520-019-00847-y
+Lucas, C., Galway-Witham, J., Stringer, C.B. et al. (2019). Investigating the use of Paleolithic perforated batons: new evidence from Gough’s Cave (Somerset, UK). Archaeol Anthropol Sci 11, 5231–5255. [https://doi.org/10.1007/s12520-019-00847-y](https://doi.org/10.1007/s12520-019-00847-y)
 
-Hurka H., Friesen N., Bernhardt K.G. et al. (2019).The Eurasian steppe belt: Status quo, origin and evolutionary history. Turczaninowia 22(3), 5–71. https://doi.org/10.14258/turczaninowia.22.3.1
+Hurka H., Friesen N., Bernhardt K.G. et al. (2019).The Eurasian steppe belt: Status quo, origin and evolutionary history. Turczaninowia 22(3), 5–71. [https://doi.org/10.14258/turczaninowia.22.3.1](https://doi.org/10.14258/turczaninowia.22.3.1)
 
-Haynes C.T. & Hemmings E.T. Mammoth-Bone Shaft Wrench from Murray Springs, Arizona. Science 159(3811), 186-187 (1969). https://doi.org/10.1126/science.159.3811.186
+Haynes C.T. & Hemmings E.T. Mammoth-Bone Shaft Wrench from Murray Springs, Arizona. Science 159(3811), 186-187 (1969). [https://doi.org/10.1126/science.159.3811.186]( https://doi.org/10.1126/science.159.3811.186)
 
 Wescott D. (1999). Primitive Technology: A Book of Earth Skills. Gibbs Smith. ISBN 978-0879059118.
 

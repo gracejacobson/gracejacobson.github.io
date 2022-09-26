@@ -4,14 +4,14 @@ title:  "Bâtons Percés: Paleolithic Perforated Batons"
 date:   2022-9-25 20:00:00 +0100
 categories: 
 ---
-![Perforated Baton](https://www.donsmaps.com/images31/img_7888lamadeleine.jpg){:.center}
+![Perforated Baton](/assets/Perforated_Baton.jpg){:.center}
 Musée d'Archeologie Nationale et Domaine
 {: .centertext}
 
 # What are perforated batons?
 Perforated batons are made of antler, and contain at least one hole. More than 400 batons have been discovered across Europe,  dating from the Upper Paleolithic to the Early Mesolithic. Batons dating to the Boreal and Early Atlantic period of the Mesolithic range from lengths 40-50cm, while Atlantic batons are longer at 50-70cm. 
 
-![Periods](https://www.researchgate.net/profile/Nikolai-Friesen/publication/336150437/figure/fig4/AS:809151177449473@1569928082174/Holocene-temporal-range-subdivisions-chronozones-and-periodization-of-human-history.png){:.center}
+![Periods](/assets/Holocene_Subdivisions.png){:.center}
 Holocene temporal range, subdivisions, chronozones and periodization (Hurka et al., 2019)
 {: .centertext}
 
@@ -21,7 +21,7 @@ Despite the large numbers of perforated batons discovered, there is no conclusio
 - *Symbols of Authority*: When the first perforated baton was discovered in 1867 by Édouard Lartet and Henry Christy, they were impressed by the intricate engravings. They called the batons "bâtons de commandement": batons are a representation of authority and power. However as more were discovered, and their use patterns analyzed, this has become a less popular hypothesis.
 - *Spear/Arrow Straighteners*
 - *Making Rope*: Rigaud (2001) demonstrated how perforated batons can be used to twist and manipulate rope, and even showed how this proposed function can cause pressure and mimic the pattern of breakage found in many batons. 
-![Rope Demonstration](https://www.donsmaps.com/images33/makingropebatonpercesm.jpg){:.center}
+![Rope Demonstration](/assets/Rope_aid.jpg){:.center}
 Use as an aid for making rope (Rigaud, 2001).
 {: .centertext}
 
@@ -30,7 +30,7 @@ Use as an aid for making rope (Rigaud, 2001).
 
 # Murray Springs Shaft Wrench
 A tool resembling European perforated batons was discovered in Arizona in 1967. It is made of mammoth bone, lacks engravings, and shows significant wear at the top and bottom of the hole. Gary Haynes hypothesized it was used for spear straightening.
-![Murray Springs Shaft Wrench](http://lithiccastinglab.com/gallery-pages/piercedstaffmurraywrenchlarge.jpg){:.center}
+![Murray Springs Shaft Wrench](/assets/Murray_Springs_Shaft_wrench.jpg){:.center}
 Murray Springs Shaft Wrench
 
 # References

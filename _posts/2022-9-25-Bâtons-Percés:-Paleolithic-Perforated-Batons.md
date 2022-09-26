@@ -18,9 +18,11 @@ Holocene temporal range, subdivisions, chronozones and periodization (Hurka et a
 
 # What was the function of perforated batons?
 Despite the large numbers of perforated batons discovered, there is no conclusion to their function. ~70% of paleolithic batons are broken, with use wear patterns differing, but it is certain that an object is passed through it. What exactly was passed through is unclear, and several hypothesis have been made for their use:
+
 - *Symbols of Authority*: When the first perforated baton was discovered in 1867 by Édouard Lartet and Henry Christy, they were impressed by the intricate engravings. They called the batons "bâtons de commandement": batons are a representation of authority and power. However as more were discovered, and their use patterns analyzed, this has become a less popular hypothesis.
 - *Spear/Arrow Straighteners*
 - *Making Rope*: Rigaud (2001) demonstrated how perforated batons can be used to twist and manipulate rope, and even showed how this proposed function can cause pressure and mimic the pattern of breakage found in many batons. 
+
 ![Rope Demonstration](/assets/Rope_aid.jpg){:.center}
 Use as an aid for making rope (Rigaud, 2001).
 {: .centertext}
@@ -32,6 +34,7 @@ Use as an aid for making rope (Rigaud, 2001).
 A tool resembling European perforated batons was discovered in Arizona in 1967. It is made of mammoth bone, lacks engravings, and shows significant wear at the top and bottom of the hole. Gary Haynes hypothesized it was used for spear straightening.
 ![Murray Springs Shaft Wrench](/assets/Murray_Springs_Shaft_wrench.jpg){:.center}
 Murray Springs Shaft Wrench
+{: .centertext}
 
 # References
 Lucas, C., Galway-Witham, J., Stringer, C.B. et al. (2019). Investigating the use of Paleolithic perforated batons: new evidence from Gough’s Cave (Somerset, UK). Archaeol Anthropol Sci 11, 5231–5255. https://doi.org/10.1007/s12520-019-00847-y

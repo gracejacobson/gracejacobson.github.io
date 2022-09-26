@@ -32,7 +32,7 @@ Use as an aid for making rope (Rigaud, 2001).
 
 # Murray Springs Shaft Wrench
 A tool resembling European perforated batons was discovered in Arizona in 1967. It is made of mammoth bone, lacks engravings, and shows significant wear at the top and bottom of the hole. Gary Haynes hypothesized it was used for spear straightening.
-![Murray Springs Shaft Wrench](/assets/Murray_Springs_Shaft_wrench.jpg){:.center}
+![Murray Springs Shaft Wrench](/assets/Murray_Springs_Shaft_Wrench.jpg){:.center}
 Murray Springs Shaft Wrench
 {: .centertext}
 

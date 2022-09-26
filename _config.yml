@@ -5,7 +5,7 @@ url: "https://gracejacobson.github.io/"
 
 header_pages:
   - index.md
-  - about_me
+  - about_me.md
   - projects.md
   - resume.md
 

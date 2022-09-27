@@ -9,4 +9,4 @@ My name is Grace Jacobson! I grew up outside Portland, OR and went to high schoo
 
 In my free time, I enjoy video games, skiing, and trying out new boba places!
 
-<img class="center" src="/assets/boba.png" alt="Boba" size ="80">
+<img class="center" src="/assets/boba.png" alt="Boba" width="80">

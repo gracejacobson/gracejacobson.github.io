@@ -8,12 +8,9 @@ Programmer Day by [@Porforever](https://www.deviantart.com/porforever/art/Progra
 {: .centertext}
 
 
-I'm Grace Jacobson, a bioinformatician currently working at [AnaptysBio](https://www.anaptysbio.com/). I hope to attend graduate school to study epigenomics or genomics! 
-{.centertext}
+<p class="centertext">I'm Grace Jacobson, a bioinformatician currently working at [AnaptysBio](https://www.anaptysbio.com/). I hope to attend graduate school to study epigenomics or genomics!</p>
 
-
-Check out my [GitHub](https://github.com/gracejacobson)! 
-{.centertext}
+<p class="centertext">Check out my [GitHub](https://github.com/gracejacobson)! </p>
 
 
 # Ramblings Below

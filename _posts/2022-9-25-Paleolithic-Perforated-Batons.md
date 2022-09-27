@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bâtons Percés: Paleolithic Perforated Batons"
+title:  "Paleolithic Perforated Batons"
 date:   2022-9-25 20:00:00 +0100
 categories: 
 ---
@@ -49,4 +49,3 @@ Wescott D. (1999). Primitive Technology: A Book of Earth Skills. Gibbs Smith. IS
 Rigaud A. (2004). Usures expérimentales sur quatre bâtons percés utilisés comme bloqueurs de câbles. Gallia Préhistoire 46:155–169
 
 Allain J. & Rigaud A.(1986). Décor et fonction, quelques exemples tirés du Magdalénien, L'Anthropologie 90(4), 713-738.
-

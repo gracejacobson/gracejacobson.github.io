@@ -19,7 +19,7 @@ mtDNA is passed on through mothers and is unmixed. There is a fixed mutation rat
 # What do we know about mitochondrial Eve?
 Originally, data suggested she lived in Africa about 145,000 years ago. More recently, by analyzing the mtDNA of indigenous Africans, researchers narrowed down her home to [Makgadikgadi](https://en.wikipedia.org/wiki/Makgadikgadi_Pan) in South Africa. They concluded that genetic Eve and her descendants lived here between 200,000 to 170,000 years ago before migrating elsewhere.
 
-<img class="center" src="/assets/migration.gif" alt="Human Migration out of Africa" width="300">
+<img class="center" src="/assets/migration.gif" alt="Human Migration out of Africa" width="500">
 Human migration by maternal haplogroups.
 {: .centertext}
 

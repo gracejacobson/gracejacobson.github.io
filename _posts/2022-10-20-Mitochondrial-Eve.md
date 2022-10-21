@@ -5,11 +5,11 @@ date:   2022-10-20 20:00:00 +0100
 categories: 
 ---
 
-# What is mitochondrial eve?
+# What is mitochondrial Eve?
 Mitochondrial eve is the most recent matrilineal common ancestor. This means that all women can trace their mothers mothers mother etc. until we reach this “mitochondrial Eve". The scientists who coined this concept preferred the name "Lucky Mother". We can find out when mitochondrial Eve lived by analyzing mitochondrial DNA.
 
 # What is mitochondrial DNA?
-Mitochondrial DNA (mtDNA) is the circular genome inside mitochondria, the powerhouse of the cell. This organelle likely originated as its own organism when it was engulfed by prokaryotes. 
+Mitochondrial DNA (mtDNA) is the circular genome inside mitochondria, [the powerhouse of the cell](https://knowyourmeme.com/memes/mitochondria-is-the-powerhouse-of-the-cell). This organelle likely originated as its own organism when it was engulfed by prokaryotes. 
 
 mtDNA is passed on through mothers and is unmixed. There is a fixed mutation rate (0.2% per million years) which allows prediction of when mitochondrial Eve lived.
 
@@ -24,7 +24,7 @@ Human migration by maternal haplogroups.
 {: .centertext}
 
 # What are some misconceptions about mitochondrial eve?
-- m**itochondrial Eve was the first human woman**: Many human women from before eve existed, although they do not have an unbroken line through daughters.
+- **mitochondrial Eve was the first human woman**: Many human women from before eve existed, although they do not have an unbroken line through daughters.
 - **contemporary women of mitochondrial Eve do not have descendants**: the mitochondrial lineage ends when a woman dies with no daughters. There could be men today who are descended from eve's contemporaries but did not receive their mtDNA.
 - **mitochondrial Eve as a singular person**: if an individual has their mitochondrial DNA sequenced and the mutation rate indicates a much older ancestor, then mitochondrial Eve changes. Mitochondrial Eve is a concept, not a sole individual.
 

@@ -13,13 +13,13 @@ Mitochondrial DNA (mtDNA) is the circular genome inside mitochondria, the powerh
 
 mtDNA is passed on through mothers and is unmixed. There is a fixed mutation rate (0.2% per million years) which allows prediction of when mitochondrial Eve lived.
 
-<img class="center" src="/assets/mitochondria.jpeg" alt="Mitochondria" width="700">
+<img class="center" src="/assets/mitochondria.jpeg" alt="Mitochondria" width="200">
 
 
 # What do we know about mitochondrial Eve?
 Originally, data suggested she lived in Africa about 145,000 years ago. More recently, by analyzing the mtDNA of indigenous Africans, researchers narrowed down her home to [Makgadikgadi](https://en.wikipedia.org/wiki/Makgadikgadi_Pan) in South Africa. They concluded that genetic Eve and her descendants lived here between 200,000 to 170,000 years ago before migrating elsewhere.
 
-<img class="center" src="/assets/migration.gif" alt="Human Migration out of Africa">
+<img class="center" src="/assets/migration.gif" alt="Human Migration out of Africa" width="300">
 Human migration by maternal haplogroups.
 {: .centertext}
 

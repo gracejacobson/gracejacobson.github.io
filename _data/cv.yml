@@ -1,0 +1,65 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Molecular, Cellular, and Developmental Biology B.S.
+      institution: University of California, Santa Cruz
+      year: 2018 - 2021
+      description:
+        - title: alpha Kappa Delta Phi, Delta Chapter 
+          contents:
+            - Promoted Asian awareness in the University and the community
+            - Hosted fundraisers to raise money for breast cancer and domestic violence awareness
+            - Fostered leadership skills through holding weekly meetings, quarterly presentations, and professional workshops
+        - Bioinformatics Club (First Year Representative)
+
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Associate II, Computational Biology
+      institution: AnaptysBio, San Diego, CA
+      year: 2022 - NOW
+      description:
+        - Created and optimized next generation sequencing pipelines
+        - Performed antibody repertoire analysis
+    - title: Research Associate I, Molecular Biology
+      institution: AnaptysBio, San Diego, CA
+      year: 2021-2022
+      description:
+      - Performed PCR, DNA extraction and purification, and mutagenesis experiments
+    - title: Biotechnology Intern
+      institution: University of California, Davis
+      year: 2017
+      description:
+        - Assisted graduate level research
+        - Discovered markers for QTL analysis of resistance genes to downy mildew in lettuce
+        - 10+ hours spent weekly after school working on research
+        - Monsanto scholarship recipient
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Dean's Honors List, Fall 2020
+    - year: 2017
+      items: 
+        - Monsanto Most Passionate Scholarship
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Experimental
+      items: 
+        - Cloning (restriction digest, Gibson assembly)
+        - DNA extraction and purification
+        - PCR
+        - Antibody mutagenesis
+    - title: Computational
+      items:
+        - Python (Intermediate)
+        - R, HTML, CSS, JavaScript (Beginner)
+        - Comfortable on Linux command line
+        - Git version control
+        - UCSC Genome Browser

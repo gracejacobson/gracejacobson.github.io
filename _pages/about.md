@@ -25,6 +25,6 @@ I would say I’m *mainly* self-taught, I learned Python basics during my underg
 
 **What’s next?**
 
-Currently, I hope to obtain a Ph.D. in genomics or computational immunology. I have pretty broad interests ranging from evolutionary genomics to cancer biology. 🧬 
+Currently, I hope to obtain a Ph.D. in bioinformatics. I have pretty broad interests ranging from ML-guided protein design to evolutionary genomics to multiomics. 🧬 
 
 ***

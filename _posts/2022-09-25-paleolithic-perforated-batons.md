@@ -3,7 +3,7 @@ layout: post
 title:  paleolithic perforated batons
 date: 2022-9-25 21:01:00
 description: paleolithic tools of an unknown use
-tags: ramblings
+tags: ramblings archaeology
 ---
 In this post:
 * toc

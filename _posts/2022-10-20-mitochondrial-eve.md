@@ -3,7 +3,7 @@ layout: post
 title:  mitochondrial eve
 date: 2022-10-20 21:01:00
 description: tracing our maternal lineage to a single woman
-tags: ramblings
+tags: ramblings archaeogenetics
 ---
 
 In this post:

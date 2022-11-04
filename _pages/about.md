@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello & welcome! This website is home to my projects, ramblings, and updates. Hope you stick around! :dizzy:
 
-I'm a bioinformatician at [AnaptysBio](https://www.anaptysbio.com/), an antibody development company focusing on inflammatory diseases. I mostly analyze NGS data for antibody repertoires (:mouse: and :man:). 
+I'm a bioinformatician at [AnaptysBio](https://www.anaptysbio.com/), an antibody development company focusing on inflammatory diseases. I primarily analyze NGS data of antibody repertoires (:mouse: and :man:).
 
-I would say I’m *mostly* self-taught, I learned Python basics during my undergrad at UC Santa Cruz. I started out as a molecular biologist and transitioned to bioinformatics once I incorporated programming into my work.
+I would say I’m *mostly* self-taught, I learned Python basics during my undergrad at UC Santa Cruz. After graduating a year early, I started as a molecular biologist before transitioning to bioinformatics once I incorporated programming into my work.
  
 ***
 

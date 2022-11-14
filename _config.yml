@@ -7,9 +7,9 @@ first_name: Grace
 middle_name: 
 last_name: Jacobson
 email: gejacobs@ucsc.edu
-description: Grace Jacobson. Research Associate II, Computational Biology at AnaptysBio. Prospective bioinformatics graduate student.
+description: Grace Jacobson. Research Associate II, Computational Biology at AnaptysBio. Prospective bioinformatics graduate student. This website is home to my projects, ramblings, and updates. Hope you stick around!
 footer_text: 
-keywords: grace jacobson  # add your own keywords or leave empty
+keywords: grace jacobson, bioinformatics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Grace Jacobson # the website title (if blank, full name will be used instead)
 first_name: Grace
 middle_name: 
 last_name: Jacobson
 email: gejacobs@ucsc.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
- Grace Jacobson
+description: Grace Jacobson: Research Associate II, Computational Biology @ AnaptysBio. Prospective bioinformatics graduate student.
 footer_text: 
 keywords: grace jacobson  # add your own keywords or leave empty
 

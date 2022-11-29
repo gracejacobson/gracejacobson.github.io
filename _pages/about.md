@@ -25,6 +25,6 @@ I would say I’m *mostly* self-taught, I learned Python basics during my underg
 
 **What’s next?**
 
-I hope to obtain a Ph.D. in bioinformatics or bioengineering! I have pretty broad interests ranging from ML-guided protein design to evolutionary genomics. 🧬 
+I hope to obtain a Ph.D. in bioengineering, bioinformatics, or genomics! I have pretty broad interests ranging from ML-guided protein design to cancer genomics. 🧬 
 
 ***

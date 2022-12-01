@@ -1,65 +1,79 @@
 - title: Education
   type: time_table
   contents:
-    - title: Molecular, Cellular, and Developmental Biology B.S.
+    - title: B.S. in Molecular, Cellular, and Developmental Biology
       institution: University of California, Santa Cruz
-      year: 2018 - 2021
+      year: Sep. 2018 ‑ Jun. 2021
       description:
-        - title: alpha Kappa Delta Phi, Delta Chapter 
-          contents:
-            - Promoted Asian awareness in the University and the community
-            - Hosted fundraisers to raise money for breast cancer and domestic violence awareness
-            - Fostered leadership skills through holding weekly meetings, quarterly presentations, and professional workshops
-        - Bioinformatics Club (First Year Representative)
-
-
+        - Upper division courses include Computational Biology Tools and Research Programming in Python.
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Associate II, Computational Biology
       institution: AnaptysBio, San Diego, CA
-      year: 2022 - NOW
+      year: Aug. 2022 - PRESENT
       description:
-        - Created and optimized next generation sequencing pipelines
-        - Performed antibody repertoire analysis
+        - Created and optimized next‑generation sequencing pipelines for antibody repertoire analysis.
+        - Assisted data migration to Benchling cloud‑based platform and improved various workflows via Benchling API.
+        - Summarized and presented findings at departmental and project meetings.
+
     - title: Research Associate I, Molecular Biology
       institution: AnaptysBio, San Diego, CA
-      year: 2021-2022
+      year: Aug. 2021 ‑ Jul. 2022
       description:
-      - Performed PCR, DNA extraction and purification, and mutagenesis experiments
-    - title: Biotechnology Intern
-      institution: University of California, Davis
-      year: 2017
-      description:
-        - Assisted graduate level research
-        - Discovered markers for QTL analysis of resistance genes to downy mildew in lettuce
-        - 10+ hours spent weekly after school working on research
-        - Monsanto scholarship recipient
+      - Cloned antibodies and their mutational variants using Gibson Assembly and single‑site mutagenesis techniques.
+      - Optimized DNA extraction protocol for Maxiprep kits and updated quality control report methods.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2020
-      items: 
-        - Dean's Honors List, Fall 2020
-    - year: 2017
-      items: 
-        - Monsanto Most Passionate Scholarship
+    - title: Biotechnology Intern, Michelmore Lab
+      institution: University of California, Davis
+      year: Jan. 2017 ‑ May 2017
+      description:
+        - Discovered marker for QTL analysis of resistance genes to downy mildew in lettuce.
+        - Awarded Monsanto scholarship for presenting findings from the internship experience.
 
 - title: Skills
   type: nested_list
   contents:
-    - title: Experimental
-      items: 
-        - Cloning (restriction digest, Gibson assembly)
-        - DNA extraction and purification
-        - PCR
-        - Antibody mutagenesis
     - title: Computational
-      items:
-        - Python (Intermediate)
-        - R, HTML, CSS, JavaScript (Beginner)
-        - Comfortable on Linux command line
+      items: 
+        - Python, R, SQL
+        - HTML/CSS/JavaScript
+        - Unix command line
         - Git version control
         - UCSC Genome Browser
+    - title: Experimental
+      items:
+        - Molecular cloning (Gibson Assembly)
+        - Site‑saturation mutagenesis
+        - PCR
+        - DNA extraction and purification
+
+
+- title: Extracurricular Activities
+  type: time_table
+  contents:
+    - title: Volunteer Tutor, Middle School Program
+      institution: Barrio Logan College Institute, San Diego, CA
+      year: Nov. 2022 ‑ PRESENT
+      description:
+        - Tutored 10‑15 middle school students weekly in math, science, history, and English.
+        - Tracked student progress to ensure first‑generation, low‑income individuals received proper support to succeed.
+
+    - title: Alumni Advisor (former President), Delta Chapter
+      institution: alpha Kappa Delta Phi, Santa Cruz, CA
+      year: Jun. 2019 ‑ PRESENT
+      description:
+      - Promoted Asian awareness in the University and the community.
+      - Hosted fundraisers to raise money for breast cancer and domestic violence awareness.
+      - Fostered leadership skills by holding weekly meetings, quarterly presentations, and professional workshops.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: Fall 2020
+      items: 
+        - Dean's Honors List
+    - year: May 2017
+      items: 
+        - Monsanto Most Passionate Scholarship
